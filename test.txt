@@ -2,3 +2,7 @@ hello git!
 Edit test!
 hello!
 branch test!
+
+<h1>gitチュートリアル</h1>
+<p>ようこそ</p>
+<p>git addについて</p>
